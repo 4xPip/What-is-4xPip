@@ -44,4 +44,6 @@ A powerful [License system to protect your Expert Advisor from unauthorized acce
 
 4xpip Email address: services@4xpip.com
 
-4xpip telegram: https://t.me/pip_4x
+4xpip Telegram: https://t.me/pip_4x
+
+4xpip Whatsapp: https://api.whatsapp.com/send/?phone=18382131588
