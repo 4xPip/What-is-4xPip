@@ -15,7 +15,9 @@ Yes, 4xPip is a legit company that programs custom trading bots for MT4, MT5 and
 - License system to let you sell your trading robot to customers and charge them a monthly Fee $$
 - Forex Martingale EA to maximize your trading profits
 - High-Frequency Trading bots
+- Integration of Artificial Intelligence and Neural Network to your Expert Advisor to maximize its profit.
 - News integration into your Trading robots and stop trading during High impact news events
+- Telegram Integration
 - Custom EA bots programming according to your specific requirements whether it is candlestick patterns, SMC, FVG, database integration, python, web API, sockets, listeners, or anything.
 - A vast library of free tools to maximize your trading profits
 
@@ -24,7 +26,9 @@ Yes, 4xPip is a legit company that programs custom trading bots for MT4, MT5 and
 - **Custom Bots Programming EA / indicator / Scripts:** 4xPip programs custom bots according to your given requirements. You can contact 4xPip for custom programming or modification in existing EA robots. 4xPip programs TradingView pinescripts. 4xPip programs MT4 Expert advisor and indicators. 4xPip programs MT5 Expert advisor and indicators.
 - **Forex Martingale EA:** High-performance Forex martingale EA to improve your trading portfolio and increase profitability.
 - **Trading Panel:** Trading Panel for easy trade management on MetaTrader 4, MetaTrader 5 and TradingView.
+- **Telegram Integration:** 4xPip offers reliable signals from MT4 to Telegram channel and MT5 to Telegram channel. You can sell your Telegram Signals, and charge your customers monthly fee $$.
 - **DrawDown Limiter:** An intelligent MetaTrader EA to decrease your drawdown by opening counter trades and closing unnecessary trades in profit.
+- **Artificial Intelligence / Neural Network:** 4xPip provides a powerful AI and neural network based algorithm that maximizes your profitability and accuracy. The bot built on top of AI and Machine Learning outperforms Trading market.
 - **Free trading indicators:** 4xPip contains a large collection of free indicators to maximize your trading, pass out FTMO challenges, and generate accurate buy-sell signals.
 
 # MT4 Programming
